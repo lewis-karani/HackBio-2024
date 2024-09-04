@@ -6,9 +6,6 @@ Welcome to the HackBio2024 Training Repository! This repository contains all the
 The HackBio2024 training is designed to provide participants with a comprehensive understanding of Bioinformatics. This repository serves as the central hub for all the materials, including scripts and solutions to exercises for the 2024 iteration of the program. 
 
 ## Contact
-If you have any questions or need further assistance, feel free to reach out:
-
-Your Name: lkarani84@gmail.com
-GitHub: lewis-karani
+If you have any questions or need further assistance, feel free to reach out: lkarani84@gmail.co
 
 Happy coding!
