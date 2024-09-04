@@ -5,9 +5,9 @@
 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/>
 
-Authors (@slack): Logy Khaled (@Logy), Tawfek Ahmed (@Tawfekahmed25), Uwaisu Nura (@uwais), Lewis Karani (@Karani)
+### **Authors** (@slack): Logy Khaled (@Logy), Tawfek Ahmed (@Tawfekahmed25), Uwaisu Nura (@uwais), Lewis Karani (@Karani)
 
-GithubRepo: https://github.com/lewis-karani/HackBio-2024/edit/main/Stage1.md 
+### **GithubRepo**: https://github.com/lewis-karani/HackBio-2024/edit/main/Stage1.md 
 
 Artificial Intelligence (AI) is revolutionizing the pharmaceutical industry, fundamentally transforming every stage of drug discovery and development. AI's capacity to process vast datasets and identify patterns that elude human analysis is accelerating the identification of potential drug candidates, thereby shortening the traditionally lengthy and costly drug development process. The applications of AI in drug discovery today are vast(Paul D. et al., 2020).
 
@@ -23,7 +23,7 @@ However, the adoption of AI in the pharmaceutical industry is not without challe
 
 The future of AI in pharmaceuticals is promising, with ongoing advancements likely to lead to more personalized and effective treatments. As AI continues to evolve, its integration into every aspect of drug discovery and development will likely become paramount, transforming how we understand and treat diseases.
 
-**References**
+### **References**
 
 Paul D, Sanap G, Shenoy S, Kalyane D, Kalia K, Tekade RK. Artificial intelligence in drug discovery and development. Drug Discov Today. 2021 Jan;26(1):80-93. doi: 10.1016/j.drudis.2020.10.010. Epub 2020 Oct 21. PMID: 33099022; PMCID: PMC7577280.
 
