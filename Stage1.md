@@ -7,7 +7,7 @@
 
 Authors (@slack): Logy Khaled (@Logy), Tawfek Ahmed (@Tawfekahmed25), Uwaisu Nura (@uwais), Lewis Karani (@Karani)
 
-GithubRepo: 
+GithubRepo: https://github.com/lewis-karani/HackBio-2024/edit/main/Stage1.md 
 
 Artificial Intelligence (AI) is revolutionizing the pharmaceutical industry, fundamentally transforming every stage of drug discovery and development. AI's capacity to process vast datasets and identify patterns that elude human analysis is accelerating the identification of potential drug candidates, thereby shortening the traditionally lengthy and costly drug development process. The applications of AI in drug discovery today are vast(Paul D. et al., 2020).
 
@@ -43,10 +43,7 @@ Rantanen J., Khinast J. The future of pharmaceutical manufacturing sciences. _J.
 
 Research and Markets . Research and Markets; 2019. Global Growth Insight - Role of AI in the Pharmaceutical Industry 2018-2022: Exploring Key Investment Trends, Companies-to-Action, and Growth Opportunities for AI in the Pharmaceutical Industry.
 
-Lamberti M.J. A study on the application and use of artificial intelligence to support drug development. _Clin. Ther._ 2019;41:1414–1426
-
-\
-\
+Lamberti M.J. A study on the application and use of artificial intelligence to support drug development. _Clin. Ther._ 2019;41:1414–1426.
 
 
 <!--EndFragment-->
