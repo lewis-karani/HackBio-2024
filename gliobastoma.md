@@ -45,3 +45,6 @@ heatmap.2(data_matrix,
           cexCol = 0.8  # Adjust column text size
 )
 ```
+### Output heatmap
+![Rplot](https://github.com/user-attachments/assets/177e829c-9074-4d15-8f56-07791c5fa395)
+
