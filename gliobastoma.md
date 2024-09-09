@@ -48,3 +48,61 @@ heatmap.2(data_matrix,
 ### Output heatmap
 ![Rplot](https://github.com/user-attachments/assets/177e829c-9074-4d15-8f56-07791c5fa395)
 
+
+### Cluster rows (genes) only
+```
+heatmap.2(data_matrix,
+          scale = "row",  # Scale across genes (rows)
+          dendrogram = "row",  # Cluster only rows (genes)
+          Rowv = TRUE,  # Enable row clustering
+          Colv = FALSE,  # Disable column clustering
+          trace = "none",
+          col = bluered(100),
+          density.info = "none",
+          key = TRUE,
+          margins = c(10, 10),
+          cexRow = 0.8,
+          cexCol = 0.8
+)
+```
+### Output
+![Rplot01](https://github.com/user-attachments/assets/0a5d0e07-6326-4d4c-bcc6-4cbf6931c740)
+
+### Cluster columns (samples) only
+```
+heatmap.2(data_matrix,
+          scale = "row",  # Scale across genes (rows)
+          dendrogram = "column",  # Cluster only columns (samples)
+          Rowv = FALSE,  # Disable row clustering
+          Colv = TRUE,  # Enable column clustering
+          trace = "none",
+          col = bluered(100),
+          density.info = "none",
+          key = TRUE,
+          margins = c(10, 10),
+          cexRow = 0.8,
+          cexCol = 0.8
+)
+```
+### Output
+![Rplot02](https://github.com/user-attachments/assets/dc23ce0a-9321-49f6-820c-e2dddca2e1fc)
+
+### Cluster both rows (genes) and columns (samples)
+```
+heatmap.2(data_matrix,
+          scale = "row",  # Scale across genes (rows)
+          dendrogram = "both",  # Cluster both rows and columns
+          Rowv = TRUE,  # Enable row clustering
+          Colv = TRUE,  # Enable column clustering
+          trace = "none",
+          col = bluered(100),
+          density.info = "none",
+          key = TRUE,
+          margins = c(10, 10),
+          cexRow = 0.8,
+          cexCol = 0.8
+)
+```
+### Output:
+![Rplot03](https://github.com/user-attachments/assets/b6c86ad0-1659-47de-8a51-e81d006f038e)
+
