@@ -1,28 +1,36 @@
-# step 1: install package gplots
+# Generating heatmap from entire glioblastoma dataset
+
+## steps followed listed below
+
+### step 1: install package ` gplots `
 
 
-install.packages("gplots")
+```
+install.packages("gplots") 
+```
+### Step 2: Load the dataset from the URL
 
-# Step 2: Load the dataset from the URL
-
-
+```
 glioblastoma <- read.csv("https://raw.githubusercontent.com/HackBio-Internship/public_datasets/main/Cancer2024/glioblastoma.csv")
+```
+### step 3: load library
 
-# step 3: load library
-
+```
 library(gplots)
+```
+### Step 4: Ensure the data contains only numeric values
 
-# Step 4: Ensure the data contains only numeric values
-
+```
 numeric_data <- glioblastoma[, sapply(glioblastoma, is.numeric)]
+```
 
+### Step 5: Convert the data frame to a matrix for heatmap.2
 
-# Step 5: Convert the data frame to a matrix for heatmap.2
-
+```
 data_matrix <- as.matrix(numeric_data)
-
-# Step 6: Generate the heatmap
-
+```
+### Step 6: Generate the heatmap
+```
 heatmap.2(data_matrix,
           scale = "row",  # Normalize values across rows (genes)
           dendrogram = "both",  # Cluster both rows and columns
@@ -36,4 +44,4 @@ heatmap.2(data_matrix,
           cexRow = 0.8,  # Adjust row text size
           cexCol = 0.8  # Adjust column text size
 )
-
+```
