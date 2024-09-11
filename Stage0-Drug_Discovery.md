@@ -1,5 +1,5 @@
 
-**Lewis Karani – Track 1: Drug Discovery Stage 0**
+**Lewis Karani – Track 1: Drug Discovery**
 
 **Proteins as drug targets in cancer treatment**
 
