@@ -2,10 +2,10 @@
 ### Visualization, Differential Expression Analysis and Downstream Analysis of Glioma Transcriptomics Count Data
 
 ## Contents
-- **[Images](.Stage\2\Task/Images/)**: Visualizations of the gene expression data, including heatmaps and other relevant figures.
-- **[Data](.Stage\2\Task/data/)**: Dataset used for analysis.
-- **[Report](.Stage\2\Task/Report.md)**: Detailed report of the analysis.
-- **[Code](.Stage\2\Task/code.md)**: for data preprocessing, visualization, and analysis.
+- **[Images](https://github.com/lewis-karani/HackBio-2024/tree/main/hackbio-cancer-internship-stage-2/Stage%202%20Task/Images)**: Visualizations of the gene expression data, including heatmaps and other relevant figures.
+- **[Data](https://github.com/lewis-karani/HackBio-2024/tree/main/hackbio-cancer-internship-stage-2/Stage%202%20Task/data)**: Dataset used for analysis.
+- **[Report](https://github.com/lewis-karani/HackBio-2024/blob/main/hackbio-cancer-internship-stage-2/Stage%202%20Task/Report.md)**: Detailed report of the analysis.
+- **[Code](https://github.com/lewis-karani/HackBio-2024/blob/main/hackbio-cancer-internship-stage-2/Stage%202%20Task/code.md)**: for data preprocessing, visualization, and analysis.
 
  ## Contributors
 |Name|Slack ID|Linkedin|
