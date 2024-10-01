@@ -7,7 +7,7 @@
 
 ### **Authors** (@slack): Logy Khaled (@Logy), Tawfek Ahmed (@Tawfekahmed25), Uwaisu Nura (@uwais), Lewis Karani (@Karani)
 
-### **GithubRepo**: https://github.com/lewis-karani/HackBio-2024/edit/main/Stage1.md 
+### **Vido Link**: https://www.linkedin.com/posts/tawfek-ahmed-a5aab4239_bioinformatics-drugdevelopment-hackbio-activity-7237782709882806272-c6zK?utm_source=share&utm_medium=member_desktop
 
 Artificial Intelligence (AI) is revolutionizing the pharmaceutical industry, fundamentally transforming every drug discovery and development stage. AI's capacity to process vast datasets and identify patterns that elude human analysis accelerates the identification of potential drug candidates, thereby shortening the traditionally lengthy and costly drug development process. The applications of AI in drug discovery today are vast(Paul D. et al., 2020).
 
