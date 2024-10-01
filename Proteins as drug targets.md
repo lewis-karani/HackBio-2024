@@ -1,5 +1,5 @@
 
-**Proteins as drug targets in cancer treatment**
+## **Proteins as drug targets in cancer treatment**
 
 **Author (@slack): Lewis Karani (@Karani)**
 
