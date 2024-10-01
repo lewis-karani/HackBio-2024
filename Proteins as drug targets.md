@@ -1,7 +1,7 @@
 
 ## **Proteins as drug targets in cancer treatment**
 
-**Author (@slack): Lewis Karani (@Karani)**
+### **Author (@slack): Lewis Karani (@Karani)**
 
 Almost every biological process within the human body involves proteins. This makes them important targets for the discovery of new drugs, especially in the context of cancer treatment. Proteins are the building blocks of life, playing an important role in almost all cellular functions. Misfunctioning or overproduced proteins can cause diseases, including cancer, to develop and progress (Ardito et al., 2017). In this way, drugs targeting these proteins can provide an extremely effective means of treating cancer (Gross et al., 2015). Several cancers have been successfully treated with this approach, and ongoing research is focused on identifying additional proteins with therapeutic potential.
 
